@@ -8,6 +8,12 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=900&center=true&vCenter=true&width=760&lines=Software+%26+AI+Developer;Full-Stack+Engineer;Building+AI-powered+applications;Python+%7C+TypeScript+%7C+React+%7C+Django;Turning+ideas+into+working+software" alt="Typing introduction" />
 
+<br/>
+
+<img src="./assets/tonny-word-art.webp" width="360" alt="Tonny Braxton developer word-art portrait made from software and AI terminology" />
+
+<sub><b>SOFTWARE · AI · DEVELOPER · FULL-STACK · PYTHON · DJANGO · REACT · TYPESCRIPT · NODE · API · AUTOMATION · DEVOPS · DATA · INNOVATE · BUILD · CREATE · GITHUB</b></sub>
+
 [![GitHub](https://img.shields.io/badge/GitHub-Tonnybraxton-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tonnybraxton)
 [![Email](https://img.shields.io/badge/Email-Let's%20Connect-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:braxtonmaaka1@gmail.com)
 
